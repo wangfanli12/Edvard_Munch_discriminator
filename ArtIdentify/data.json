@@ -1,0 +1,530 @@
+[
+    {
+        "id": "0",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/alma-mater-1916.jpg"
+        }
+    },
+    {
+        "id": "1",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/anxiety-1894.jpg"
+        }
+    },
+    {
+        "id": "2",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/ashes-1894.jpg"
+        }
+    },
+    {
+        "id": "3",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/at-the-coffee-table-1883.jpg"
+        }
+    },
+    {
+        "id": "4",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/aunt-karen-in-the-rocking-chair-1883.jpg"
+        }
+    },
+    {
+        "id": "5",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/by-the-deathbed-fever-1893.jpg"
+        }
+    },
+    {
+        "id": "6",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/by-the-deathbed-fever-i-1915.jpg"
+        }
+    },
+    {
+        "id": "7",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/by-the-roulette-1892.jpg"
+        }
+    },
+    {
+        "id": "8",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/children-in-the-street-1915.jpg"
+        }
+    },
+    {
+        "id": "9",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/christmas-in-the-brothel-1905.jpg"
+        }
+    },
+    {
+        "id": "10",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/couple-on-the-shore-from-the-reinhardt-frieze-1907.jpg"
+        }
+    },
+    {
+        "id": "11",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/dance-of-life-1900.jpg"
+        }
+    },
+    {
+        "id": "12",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/death-in-the-sickroom-1893.jpg"
+        }
+    },
+    {
+        "id": "13",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/despair-1892.jpg"
+        }
+    },
+    {
+        "id": "14",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/evening-on-karl-johan-street-1892.jpg"
+        }
+    },
+    {
+        "id": "15",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/eye-in-eye-1894.jpg"
+        }
+    },
+    {
+        "id": "16",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/fertility-ii-1902.jpg"
+        }
+    },
+    {
+        "id": "17",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/four-girls-in-arsgardstrand-1903.jpg"
+        }
+    },
+    {
+        "id": "18",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/from-thuringewald-1905.jpg"
+        }
+    },
+    {
+        "id": "19",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/galloping-horse-1912.jpg"
+        }
+    },
+    {
+        "id": "20",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/girl-combing-her-hair-1892.jpg"
+        }
+    },
+    {
+        "id": "21",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/girl-kindling-a-stove-1883.jpg"
+        }
+    },
+    {
+        "id": "22",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/girls-on-a-bridge-1900.jpg"
+        }
+    },
+    {
+        "id": "23",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/high-summer-ii-1915.jpg"
+        }
+    },
+    {
+        "id": "24",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/history-1916.jpg"
+        }
+    },
+    {
+        "id": "25",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/horse-team-1919.jpg"
+        }
+    },
+    {
+        "id": "26",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/jealousy-from-the-series-the-green-room-1907.jpg"
+        }
+    },
+    {
+        "id": "27",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/jurisprudence-1887.jpg"
+        }
+    },
+    {
+        "id": "28",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/kiss-1897.jpg"
+        }
+    },
+    {
+        "id": "29",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/man-and-woman-ii-1915.jpg"
+        }
+    },
+    {
+        "id": "30",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/meeting-1921.jpg"
+        }
+    },
+    {
+        "id": "31",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/melancholy-1892.jpg"
+        }
+    },
+    {
+        "id": "32",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/melancholy.jpg"
+        }
+    },
+    {
+        "id": "33",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/model-in-front-of-the-verandah-1942.jpg"
+        }
+    },
+    {
+        "id": "34",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/model-on-the-couch-1928.jpg"
+        }
+    },
+    {
+        "id": "35",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/moonlight-1893.jpg"
+        }
+    },
+    {
+        "id": "36",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/morning-1884.jpg"
+        }
+    },
+    {
+        "id": "37",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/mother-and-daughter-1897.jpg"
+        }
+    },
+    {
+        "id": "38",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/night-1890.jpg"
+        }
+    },
+    {
+        "id": "39",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/old-man-in-warnemunde-1907.jpg"
+        }
+    },
+    {
+        "id": "40",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/rain-1902.jpg"
+        }
+    },
+    {
+        "id": "41",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/red-and-white-1900.jpg"
+        }
+    },
+    {
+        "id": "42",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/red-virginia-creeper-1900.jpg"
+        }
+    },
+    {
+        "id": "43",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/self-portrait-during-eye-disease-ii-1930.jpg"
+        }
+    },
+    {
+        "id": "44",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/self-portrait-during-the-eye-disease-i-1930.jpg"
+        }
+    },
+    {
+        "id": "45",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/self-portrait-in-distress-1919.jpg"
+        }
+    },
+    {
+        "id": "46",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/self-portrait-in-the-garden-ekely-1942.jpg"
+        }
+    },
+    {
+        "id": "47",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/separation-1894.jpg"
+        }
+    },
+    {
+        "id": "48",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/snow-falling-in-the-lane-1906.jpg"
+        }
+    },
+    {
+        "id": "49",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/spring-1889.jpg"
+        }
+    },
+    {
+        "id": "50",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/spring-day-on-karl-johan-street-1890.jpg"
+        }
+    },
+    {
+        "id": "51",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/spring-plowing-1916.jpg"
+        }
+    },
+    {
+        "id": "52",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/street-in-asgardstrand-1902.jpg"
+        }
+    },
+    {
+        "id": "53",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/street-lafayette-1891.jpg"
+        }
+    },
+    {
+        "id": "54",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/summer-night-inger-on-the-shore-1889.jpg"
+        }
+    },
+    {
+        "id": "55",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/tavern-in-st-cloud-1890.jpg"
+        }
+    },
+    {
+        "id": "56",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-artist-and-his-model-1921.jpg"
+        }
+    },
+    {
+        "id": "57",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-day-after-1895.jpg"
+        }
+    },
+    {
+        "id": "58",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-dead-mother-1900.jpg"
+        }
+    },
+    {
+        "id": "59",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-death-chamber-1896.jpg"
+        }
+    },
+    {
+        "id": "60",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-fisherman-1902.jpg"
+        }
+    },
+    {
+        "id": "61",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-girls-on-the-bridge-1901.jpg"
+        }
+    },
+    {
+        "id": "62",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-haymaker-1916.jpg"
+        }
+    },
+    {
+        "id": "63",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-ladies-on-the-bridge-1903.jpg"
+        }
+    },
+    {
+        "id": "64",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-lonely-ones-1935.jpg"
+        }
+    },
+    {
+        "id": "65",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-lumberjack-1913.jpg"
+        }
+    },
+    {
+        "id": "66",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-murderer-1910.jpg"
+        }
+    },
+    {
+        "id": "67",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-murderer-in-the-lane-1919.jpg"
+        }
+    },
+    {
+        "id": "68",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-murderess-1906.jpg"
+        }
+    },
+    {
+        "id": "69",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-scream-1893-1.jpg"
+        }
+    },
+    {
+        "id": "70",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-scream-1895.jpg"
+        }
+    },
+    {
+        "id": "71",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-scream-1896-1-jpg-large.jpg"
+        }
+    },
+    {
+        "id": "72",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-sick-child-1886.jpg"
+        }
+    },
+    {
+        "id": "73",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-sick-child-ii-1896.jpg"
+        }
+    },
+    {
+        "id": "74",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-sick-child.jpg"
+        }
+    },
+    {
+        "id": "75",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-storm-1893.jpg"
+        }
+    },
+    {
+        "id": "76",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-village-street-1906.jpg"
+        }
+    },
+    {
+        "id": "77",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-voice-1893.jpg"
+        }
+    },
+    {
+        "id": "78",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-voice-summer-night-1896.jpg"
+        }
+    },
+    {
+        "id": "79",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/the-wedding-of-the-bohemian-munch-seated-on-the-far-left-1925.jpg"
+        }
+    },
+    {
+        "id": "80",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/three-girls-on-the-jetty-1903.jpg"
+        }
+    },
+    {
+        "id": "81",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/towards-the-forest-ii-1915.jpg"
+        }
+    },
+    {
+        "id": "82",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/vampire-ii-1902.jpg"
+        }
+    },
+    {
+        "id": "83",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/women-on-the-bridge-1902.jpg"
+        }
+    },
+    {
+        "id": "84",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/women-on-the-bridge.jpg"
+        }
+    },
+    {
+        "id": "85",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/worker-and-child-1908.jpg"
+        }
+    },
+    {
+        "id": "86",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/workers-in-the-snow-1913.jpg"
+        }
+    },
+    {
+        "id": "87",
+        "input_values": {
+            "image": "https://raw.githubusercontent.com/wangfanli12/Edvard_Munch/main/Edvard_Munch/young-woman-on-the-shore-1896.jpg"
+        }
+    }
+]
